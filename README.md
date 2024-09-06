@@ -10,7 +10,6 @@ SiPeKa (Employee Payroll System) is a system used by companies to manage employe
       - [Backend](#backend)
       - [Database](#database)
   * [📸 Screenshots](#screenshots)
-  * [Meet The Teams](#meet-the-teams)
   * [Author](#author)
   * [License](#license)
 
@@ -145,36 +144,10 @@ This project was created using the following technologies.
 --- -
 ![img-14](https://github.com/berthutapea/mern-employee-salary-management/assets/111676859/8539843c-39f1-4642-84b6-cb9a2a4b09b9)
 --- -
-![img-15](https://github.com/berthutapea/mern-employee-salary-management/assets/111676859/fd0e75e7-b0d5-4fe8-a477-1a1c8b709ca8)
---- -
 ![img-16](https://github.com/berthutapea/mern-employee-salary-management/assets/111676859/90f57d70-6547-4a55-8045-f51aa596061a)
 --- -
 ![img-17](https://github.com/berthutapea/mern-employee-salary-management/assets/111676859/7e0c9850-7c71-4fc3-aa7b-86b323fb1b8b)
 
-## Meet The Teams
-
-<center>
-  <table align="center">
-    <tr >
-      <th >Backend Developer</th>
-      <th >Frontend Developer</th>
-    </tr>
-    <tr >
-      <td align="center">
-        <a href="https://github.com/AldiRamdani0401">
-          <img width="200"  src="https://res.cloudinary.com/du541igfh/image/upload/v1690573793/Blog%20Portfolio%20Gilbert/Project/mern-penggajian-karyawan/Aldi_mkw04y.jpg" alt=""><br/>
-          <b>Aldi Ramdani</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/berthutapea">
-          <img width="200"  src="https://res.cloudinary.com/du541igfh/image/upload/v1690573793/Blog%20Portfolio%20Gilbert/Project/mern-penggajian-karyawan/Gilbert_zx9rbq.jpg" alt=""><br/>
-          <b>Gilbert Hutapea</b>
-        </a>
-      </td>
-    </tr>
-  </table>
-</center>
 
 ## Author
 - Portfolio: [berthutapea](https://berthutapea.vercel.app/)
